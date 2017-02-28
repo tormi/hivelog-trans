@@ -103,7 +103,7 @@
   "PWRESET.ERR_USERNOTFOUND": "Sellist kasutajanime ei leitud",
   "OPTION.VARROA_SAMPLE.mitefall": "Lestade varisemine",
   "OPTION.DISEASES.foulbrood_us": "Ameerika haudmemädanik",
-  "SETTINGS.FETCH_INFO": "Laadi andmed internetiühenduseta kasutamiseks oma seadmesse",
+  "SETTINGS.FETCH_INFO": "Laadi andmed võrguühenduseta kasutamiseks oma seadmesse",
   "OVERVIEW.DISEASES": "Haigused",
   "AUTH.PASSWORD": "Salasõna",
   "SETTINGS.FETCH_RESULT": "Laadisin {{hives}} taru {{apiaries}} mesilas.",
